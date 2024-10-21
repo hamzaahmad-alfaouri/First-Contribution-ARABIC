@@ -2326,7 +2326,7 @@
                 <tr> 
                     <!-- LINKED IN -->
                     <td>
-                        <a href=""https://www.linkedin.com/in/hamza-alfaouri-682895290"">
+                        <a href="https://www.linkedin.com/in/hamza-alfaouri-682895290">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
